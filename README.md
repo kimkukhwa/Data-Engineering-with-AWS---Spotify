@@ -4,4 +4,4 @@ In this project, I focused on learning Amazon Web Services (AWS) and explored se
 
 Throughout the project, I gained hands-on experience in data storage, transformation, and querying, and documented my learning journey to help others who are starting their own path in AWS Data Engineering.
 
-I've also created a video to share my experience and guide others through the process.
+I've also created a video to share my experience and guide others through the process (https://youtu.be/giAsQrxfDgs).
